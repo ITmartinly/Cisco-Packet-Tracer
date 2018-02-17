@@ -2,6 +2,7 @@
 This Network was created using CISCO Packet Tracer
 
 Given these guidelines to follow:
+
 •	Clear configurations and reload switches and routers to the default state
 
 •	Use the block 172.20.1.0/24 for the LAN and assign IP addresses to PC1, PC2, S1 and S2 from this block
