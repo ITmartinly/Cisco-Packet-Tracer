@@ -1,6 +1,8 @@
 # Cisco Networks
 This Network was created using CISCO Packet Tracer
 
+![screenshot](https://user-images.githubusercontent.com/28699046/36344660-b6e39bb8-13eb-11e8-84dc-8b8055f79322.JPG)
+
 ### Purpose of project:
 
 •	Clear configurations and reload switches and routers to the default state
